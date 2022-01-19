@@ -6,3 +6,4 @@
 print("Welcomee to the Tip Calculator!")
 print("\n")
 total_bill = input("What was the total bill?: ")
+tip = input("How much tip would you like to give? 10, 12 or 15?: ")
